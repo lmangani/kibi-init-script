@@ -1,2 +1,2 @@
 # kibi-init-script
-Kibi Init Script
+Simple Init script for [Kibi](https://github.com/sirensolutions/kibi)
