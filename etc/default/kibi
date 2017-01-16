@@ -1,0 +1,5 @@
+user="kibi"
+group="kibi"
+chroot="/"
+chdir="/"
+nice=""
